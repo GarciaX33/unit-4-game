@@ -16,8 +16,7 @@ function randomNumber() {
     $("#starterNumber").text(randomNum);
 };
 
-crystals = {
-    onclickFunction: function (buttonValue) {
+crystals = {onclickFunction: function (buttonValue) {
         if (buttonValue === "crystal1") {
             buttonValue = crystal1;
         } else if (buttonValue === "crystal2") {
