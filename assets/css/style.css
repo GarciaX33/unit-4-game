@@ -1,0 +1,36 @@
+body {
+    background-image: url(../images/bg.PNG)
+}
+
+.jumbotron {
+    background-color: darkorange;
+}
+
+#instructions {
+    background-color: rgb(240, 208, 181);
+    color: green;
+    margin-left: 10px;
+}
+
+#targetNum {
+    background-color: green;
+    margin: 10px;
+    padding: 15px;
+}
+
+#winId {
+    background-color: aquamarine;
+}
+
+#lossId {
+    background-color: aquamarine;
+}
+
+#divLoss {
+    margin: 10px;
+    padding: 15px;
+}
+
+#scoreCounterCol {
+    background-color: rgb(7, 167, 119);
+}
